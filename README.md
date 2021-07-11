@@ -4,6 +4,14 @@
 - 💞️ 初中计划比较多，想找人一起提升自学能力，尤其是自我规划和自我管理。
 - 📫 想联系我，就写信到zhangleduo@qq.com。
 
+-----
+
+- 👋 Hi, I’m Hiro
+- 👀 I’m interested in maths,football, basketball, good at count mental arithmetic
+- 🌱 I’m currently learning physical, ready for my study in the middle school.
+- 💞️ I’m looking to collaborate on the ability of self-learning, and C++
+- 📫 mail me to bigmouthcrow@gmail.com
+
 <!---
 hiroZLD/hiroZLD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
